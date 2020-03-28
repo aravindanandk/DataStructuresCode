@@ -12,7 +12,7 @@ public class ArrayMethods {
         String[] aArray = new String[5]; // Just declared not initiated
         String[] bArray = {"a","b","c", "d", "e"};
         String[] cArray = new String[]{"a","b","c","d","e"};
-
+        /*Methods used in Java Array*/
         /*1.Printing an Array using toString*/
         System.out.println(numbers1); // Address - [I@1b6d3586 will be printed
         String arrayOutput = Arrays.toString(numbers1); //java.util.Arrays will be used/imported
